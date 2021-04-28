@@ -1,0 +1,11 @@
+{
+  "properties": [
+    {
+      "name": "iota.trigger.http.ignore-suffix",
+      "type": "java.lang.Boolean",
+      "description": "weather should ignore file suffix when add routes.",
+      "defaultValue": "false"
+    }
+  ]
+}
+

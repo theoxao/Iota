@@ -1,0 +1,10 @@
+# global transformation to handle @Grab annotation
+groovy.grape.GrabAnnotationTransformation
+
+#global transformation for AST Builder
+org.codehaus.groovy.ast.builder.AstBuilderTransformation
+
+#global transformation for parameter name discoverer
+com.theoxao.iota.handler.groovy.ast.ParameterNameTransform
+
+#global transformation for getting method names

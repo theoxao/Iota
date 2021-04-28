@@ -1,0 +1,11 @@
+{
+  "properties": [
+    {
+      "name": "iota.loader.file.root-path",
+      "type": "java.lang.String",
+      "description": "root path of script under class path which will be load when boot.",
+      "defaultValue": "script"
+    }
+  ]
+}
+

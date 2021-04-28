@@ -1,0 +1,10 @@
+rootProject.name = "iota"
+include("core")
+include("base")
+include("trigger-http")
+include("trigger-shell")
+include("handler-groovy")
+include("handler-asyncjava")
+include("loader-file")
+include("trigger-dubbo-consumer")
+include("examples")

@@ -1,0 +1,7 @@
+iota:
+  loader:
+    file:
+      root-path: /Users/theo/workspace/theo/iota/examples/src/main/resources/script
+  trigger:
+    http:
+      ignore-suffix: true
