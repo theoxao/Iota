@@ -3,7 +3,7 @@ plugins {
     kotlin("jvm")
 }
 
-group = "me.theo"
+group = "com.theoxao"
 version = "1.0-SNAPSHOT"
 
 repositories {
